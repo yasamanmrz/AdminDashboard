@@ -157,7 +157,7 @@ export default function Products() {
                       <span className={`inline-flex px-2.5 py-1 rounded-lg text-[11px] font-medium ${getStatusClass(product.status)}`}>{product.status}</span>
                     </td>
                     <td className='px-4 py-3.5'>
-                      <button onClick={setSelectedOrder(product)} className='w-10 h-10 shrink-0 flex items-center justify-center rounded-lg text-foreground/50 hover:text-primary hover:bg-primary/10 transition touch-manipulation'>
+                      <button onClick={()=>setSelectedOrder(product)} className='w-10 h-10 shrink-0 flex items-center justify-center rounded-lg text-foreground/50 hover:text-primary hover:bg-primary/10 transition touch-manipulation'>
                         <FiEye size={17} />
                       </button>
                     </td>
