@@ -1,36 +1,118 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+🚀 Admin Dashboard
 
-## Getting Started
+A modern, fully responsive Admin Dashboard built with Next.js, React, Tailwind CSS, Zustand, and Recharts.
 
-First, run the development server:
+This dashboard provides a clean and scalable interface for managing e-commerce, CRM, analytics, customers, orders, products, notifications, and more.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🌐 Live Demo
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🔗 "View Live Demo" (https://admin-dashboard-aj7d.vercel.app/)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+✨ Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 📊 Analytics Dashboard
+- 🛒 E-Commerce Management
+- 👥 Customer Management
+- 📦 Product Management
+- 🧾 Order Management
+- 💬 Chat Interface
+- ✉️ Mail Management
+- 📅 Calendar
+- 🔔 Notifications
+- 💳 Pricing Plans
+- ⚙️ Settings Panel
+- 📈 Interactive Charts
+- 🌙 Dark / Light Mode
+- 🎨 Customizable Theme
+- 🌍 Multi-language Support
+- 📱 Fully Responsive Design
+- 📲 Mobile-Friendly Navigation
+- ⚡ Fast and Modern UI
 
-## Learn More
+🛠️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+Technology| Usage
+Next.js| React framework
+React| UI development
+Tailwind CSS| Styling & responsive design
+Zustand| State management
+Recharts| Data visualization
+React Icons| UI icons
+JavaScript| Application logic
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🎨 Dashboard Sections
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+📊 Analytics
 
-## Deploy on Vercel
+Track important business metrics with interactive charts and visual reports.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🛍️ E-Commerce
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Manage sales, products, orders, revenue, and performance data.
+
+👥 CRM
+
+Manage customers, leads, deals, and sales performance.
+
+📦 Products
+
+View and manage products with pricing, categories, and product details.
+
+🧾 Orders
+
+Manage customer orders, order status, pricing, and order details.
+
+🔔 Notifications
+
+Organize notifications by categories such as All, Unread, Today, and Yesterday.
+
+⚙️ Settings
+
+Customize the dashboard appearance, theme, language, and other preferences.
+
+📱 Responsive Design
+
+The dashboard is designed to work across different screen sizes:
+
+- 🖥️ Desktop
+- 💻 Laptop
+- 📱 Tablet
+- 📲 Mobile
+
+The sidebar automatically adapts to smaller screens with a mobile-friendly navigation system.
+
+
+🌐 Deployment
+
+This project is deployed with Vercel and connected to GitHub for automatic deployments.
+
+🔗 "Live Website" (https://admin-dashboard-aj7d.vercel.app/)
+
+Every push to the connected GitHub repository can automatically trigger a new deployment.
+
+
+<img width="1909" height="925" alt="Create Next App - Google Chrome 9_5_2026 12_05_37 AM" src="https://github.com/user-attachments/assets/be58f67a-6079-4f00-bb5c-d4648c33c33f" />
+
+
+«Coming soon...»
+
+🔮 Future Improvements
+
+- 🔐 Authentication & Authorization
+- 🗄️ Backend API integration
+- 🛒 Complete shopping cart system
+- 💳 Payment gateway integration
+- 🗃️ Database integration
+- 📊 Advanced analytics
+- 🔎 Advanced search and filtering
+- 👤 User roles and permissions
+
+👩‍💻 Author
+
+Yasaman
+
+Frontend Developer focused on building modern and responsive web applications with React and Next.js.
+
+---
+
+⭐ If you like this project, consider giving it a star!
